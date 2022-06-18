@@ -1,5 +1,11 @@
 # Certificate Engine-WebApp
 
+### This project was made by @prskid1000 for HouseOfGeeks@IIITR to help them in managing events and certificate creation. But College started using external tools so it is not used.
+
+## Admin-Credential
+- Username:prskid
+- Password:1234
+
 ![2](https://github.com/Appefy/Certificate-Engine-Parent/blob/main/client/web-app/Preview/1.png?raw=true)
 
 ![2](https://github.com/Appefy/Certificate-Engine-Parent/blob/main/client/web-app/Preview/2.png?raw=true)
