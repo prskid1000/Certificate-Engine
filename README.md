@@ -1,7 +1,5 @@
 # Certificate-Engine
 
-This is a development repository of Certificate Engine for House Of Geeks , the Technical Society of [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
-
 ## Admin-Credential
 - Username:prskid
 - Password:1234
@@ -18,7 +16,7 @@ This is a development repository of Certificate Engine for House Of Geeks , the 
 - Run 'npm install' to install all the dependencies.
 - Run 'npm start' to start the development server.
 
-Please read [here](https://github.com/houseofgeeks/cehg/blob/master/client/web-app/README.md) for details on getting started with CEHG web-app
+Please read [here](https://github.com/prskid1000/Certificate-Engine/blob/master/client/web-app/README.md) for details on getting started with CEHG web-app
 
 ## Android-App
 
@@ -26,8 +24,8 @@ Please read [here](https://github.com/houseofgeeks/cehg/blob/master/client/web-a
 
 ## Contributing Guide
 
-Please read [CONTRIBUTING.md](https://github.com/houseofgeeks/cehg/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/prskid1000/Certificate-Engine/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/houseofgeeks/cehg/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/prskid1000/Certificate-Engine/blob/master/LICENSE) file for details
