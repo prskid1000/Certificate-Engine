@@ -1,5 +1,12 @@
 # Certificate-Engine-Mobile
 
+### This project was made by @prskid1000 for HouseOfGeeks@IIITR to help them in managing events and certificate creation. But College started using external tools so it is not used.
+
+## Admin-Credential
+- Username:prskid
+- Password:1234
+
+
 ![2](https://github.com/prskid1000/Certificate-Engine/blob/master/client/android_app/Preview/1.png?raw=true)
 
 ![2](https://github.com/prskid1000/Certificate-Engine/blob/master/client/android_app/Preview/2.png?raw=true)
