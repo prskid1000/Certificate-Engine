@@ -1,6 +1,6 @@
 # Certificate-Engine
 
-### This project was made by @prskid1000 for HouseOfGeeks@IIITR to help them in managing events and certificate creation. But College started using external tools so it is not used.
+### This project was made by @prskid1000 for HouseOfGeeks@IIITR to help them in managing events and certificate creation.
 
 ## Admin-Credential
 - Username:prskid
